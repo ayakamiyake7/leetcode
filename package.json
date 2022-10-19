@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "- 704\\. Binary Search https://leetcode.com/problems/binary-search/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayakamiyake7/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayakamiyake7/leetcode/issues"
+  },
+  "homepage": "https://github.com/ayakamiyake7/leetcode#readme"
+}
